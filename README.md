@@ -23,8 +23,8 @@
 
  
 **For Backend**
- 1. `git clone (https://github.com/Amandeep12443/e-commerce-store)`
- 2. `cd e-comerce-backend`
+ 1. `git clone (https://github.com/govindti/E-Com-Express)`
+ 2. `cd e-commerce-backend`
  3. `npm i`
  4. `npm run data:import`
  5. `npm run dev`
@@ -35,7 +35,7 @@
  2. `npm i`
  3. `npm run start`
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://www.linkedin.com/in/amandeep-chaudhary-95a811267/)
+**NOTE** : If you stuck then contact me on LinkedIn (https://www.linkedin.com/in/govindtiwri/)
 
 ## Request
 
